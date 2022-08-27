@@ -93,7 +93,6 @@ async def start_command(client: Client, message: Message):
                         InlineKeyboardButton("𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴", url="https://youtube.com/channel/UCBX-jyK-jLXx9uGFm565-Tg")                        
                     ],
                     [
-                        InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃", callback_data = "about"),
                         InlineKeyboardButton("𝙲𝙻𝙾𝚂𝙴", callback_data = "close")
                     ]
                 ]
